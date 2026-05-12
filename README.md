@@ -13,7 +13,7 @@ Each project includes:
 - [Streaming Pipeline](case-studies/streaming_pipeline.md)
 - [ETL Failure Handling](case-studies/etl_failure.md)
 - [Cloud Migration](case-studies/cloud_migration.md)
-- [Cloud Migration](diagrams/data_mgt.svg)
+- [Cloud Migration](diagrams/data_mgt.png)
 
 ## Structure
 - `diagrams/` → Architecture diagrams (PNG/SVG)
