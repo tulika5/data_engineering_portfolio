@@ -1,24 +1,3 @@
-### Project Checklist
-- [ ] Set up repository
-- [ ] Write documentation
-- [ ] Add unit tests
-- [ ] Review pull requests
-- [x] Initial commit
-Here’s a structured roadmap of topics to master for cracking senior/staff-level (10 years experience) Data Engineer interviews at product-based companies like Amazon, Google, Microsoft, Uber, Netflix, Airbnb, Meta, LinkedIn, and modern SaaS/data companies.
-
-At 10 YOE, interviews are much less about syntax and much more about:
-
-* System design
-* Scale
-* Tradeoffs
-* Architecture decisions
-* Leadership
-* Optimization
-* Ownership
-* Real-world debugging
-
----
-
 # 1. SQL — Must Be Elite Level
 
 This is usually the highest signal area.
